@@ -4,7 +4,7 @@
 #include <ESP8266HTTPClient.h>
  
 const char *ssid = "WAL";  //Nombre de red wifi
-const char *password = "942918007";
+const char *password = "mypass12345";
 int R = 0; //Variable para guardar el valor r
 int G = 0; //Variable para guardar el valor g
 int B = 0; //Variable para guardar el valor b
